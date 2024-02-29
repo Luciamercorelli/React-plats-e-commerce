@@ -35,7 +35,7 @@ const Cart: React.FC = () => {
           </ul>
         </div>
         <div className="total">
-          <h3 className="total">Total: ${totalPrice}</h3>
+          <h3 className="total-price">Total: ${totalPrice}</h3>
         </div>
         <Footer />
       </div>
