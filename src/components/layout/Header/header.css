@@ -1,0 +1,16 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box ;
+}
+
+.search-bar {
+display: flex;  
+align-items: flex-start;  
+align-items: center;
+background-color: white;
+height: 2.5rem;
+width: 100%;
+border: 1px solid black;
+border-radius: 10px;
+}

@@ -1,0 +1,21 @@
+.plant-list {
+  display: flex;
+  width: 80%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-left: 2.5rem;
+  margin-top: 3rem;
+}
+
+.plant-box {
+  width: 10rem;
+  height: 10rem;
+  background-color: white;
+  gap: 1rem;
+}
+
+.text {
+  color: white;
+}
